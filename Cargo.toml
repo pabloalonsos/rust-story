@@ -1,0 +1,11 @@
+[package]
+name = "cave-story"
+version = "0.1.0"
+authors = ["pabloalonso <pabloalonsos.eu@gmail.com>"]
+
+[[bin]]
+name = "cave-story"
+
+[dependencies]
+sdl2 = "0.8.0"
+piston = "0.10.0"
